@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Bookmarked](https://github.com/ZF4/Bookmarked)
 
-- 📱 I have one app on the App Store - TEA [Source](https://github.com/ZF4/TEA) [App Link](https://apps.apple.com/us/app/t-e-a/id6477495855) 
+- 📱 I have one app on the App Store - TEA [Source](https://github.com/ZF4/TEA) [App Store](https://apps.apple.com/us/app/t-e-a/id6477495855) 
 
 - 📫 How to reach me **zf.codes@gmail.com**
 
