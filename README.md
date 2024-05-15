@@ -15,10 +15,11 @@
 
 <h3 align="left">Intrests:</h3>
 <p align="left">
-  Espresso /n
-  Real Estate
-  Cryptocurrency
-  Pickleball
+  Espresso <br />
+  Real Estate <br />
+  Cryptocurrency <br />
+  Gaming <br />
+  Pickleball <br />
   Dogs and tortoises
 </p>
 <h3 align="left">Connect with me:</h3>
