@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Bookmarked](https://github.com/ZF4/Bookmarked) & Spaces
 
-- 📱 I have two apps on the App Store - [TEA](https://apps.apple.com/us/app/t-e-a/id6477495855) | [Source](https://github.com/ZF4/TEA) & Bookmarked [Source](https://github.com/ZF4/Bookmarked) | [App Store](https://apps.apple.com/us/app/bookmark-ed/id6502716625)
+- 📱 I have two apps on the App Store - [TEA](https://github.com/ZF4/TEA) -> [App Store](https://apps.apple.com/us/app/t-e-a/id6477495855) & Bookmarked [Source](https://github.com/ZF4/Bookmarked) | [App Store](https://apps.apple.com/us/app/bookmark-ed/id6502716625)
 
 - 📫 How to reach me **zf.codes@gmail.com**
 
