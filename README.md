@@ -2,7 +2,7 @@
 
 <h1 align="center"> <img src="https://i.postimg.cc/GhSpVJqT/zachgg.png"/> </h1>
                                             
-<h3 align="center">An iOS Developer turning ideas into apps.</h3>
+<h3 align="center">An iOS Developer turning ideas into apps. Currently learning Go</h3>
 
 - 🔭 I’m currently working on [Bookmarked](https://github.com/ZF4/Bookmarked) & Spaces
 
