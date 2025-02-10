@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on * *Insert Cool App Name* *. It's an app to help your find more time to prioritize your health by limiting your screen time.
 
-- 📱 I have two apps on the App Store: TEA [App Store](https://apps.apple.com/us/app/t-e-a/id6477495855) & Bookmarked [App Store](https://apps.apple.com/us/app/bookmark-ed/id6502716625)
+- 📱 I have two apps on the App Store: **TEA** [App Store](https://apps.apple.com/us/app/t-e-a/id6477495855) & **Bookmarked** [App Store](https://apps.apple.com/us/app/bookmark-ed/id6502716625)
 
 - 📫 How to reach me **zf.coding@gmail.com**
 
