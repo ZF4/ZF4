@@ -4,7 +4,7 @@
                                             
 <h3 align="center">An iOS Developer turning ideas into apps.</h3>
 
-- 🔭 I’m currently working on * *Umm, Cool App Name* *. It's an app to help your find more time to prioritize your health by limiting your screen time.
+- 🔭 I’m currently working on *STRIDE*. It's an app to help your find more time to prioritize your health by limiting your screen time.
 
 - 📱 I have two apps on the App Store: **TEA** [App Store](https://apps.apple.com/us/app/t-e-a/id6477495855) & **Bookmarked** [App Store](https://apps.apple.com/us/app/bookmark-ed/id6502716625)
 
