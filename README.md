@@ -4,7 +4,7 @@
                                             
 <h3 align="center">An iOS Developer turning ideas into apps.</h3>
 
-- 🔭 I’m currently working on *Junebug* - A safe driving app.
+- 🔭 I’m currently working on *Junebug* - a safe driving app.
 
 - 📱 I have three apps on the App Store: **TEA** [App Store](https://apps.apple.com/us/app/t-e-a/id6477495855) & **Bookmarked** [App Store](https://apps.apple.com/us/app/bookmark-ed/id6502716625) & **Stride** [App Store](https://apps.apple.com/us/app/stride-lets-move/id6746705178)
 
