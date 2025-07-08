@@ -6,7 +6,10 @@
 
 - 🔭 I’m currently working on *Junebug* - a safe driving app.
 
-- 📱 I have three apps on the App Store: **TEA** [App Store](https://apps.apple.com/us/app/t-e-a/id6477495855) & **Bookmarked** [App Store](https://apps.apple.com/us/app/bookmark-ed/id6502716625) & **Stride** [App Store](https://apps.apple.com/us/app/stride-lets-move/id6746705178)
+- 📱 I have three apps on the App Store:
+  - [**TEA**](https://apps.apple.com/us/app/t-e-a/id6477495855)
+  - [**Bookmarked**](https://apps.apple.com/us/app/bookmark-ed/id6502716625)
+  - [**Stride**](https://apps.apple.com/us/app/stride-lets-move/id6746705178)
 
 - 📫 How to reach me: **zf.coding@gmail.com**
 
